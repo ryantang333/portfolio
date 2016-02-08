@@ -384,7 +384,7 @@ img{
 
 
 .slider_caption {
-  margin-top: 12%;
+  margin-top: 6%;
   padding: 0 13%;
   position: relative;
   text-align: center;
@@ -416,9 +416,9 @@ img{
 }
 
 #profile-img{
-  border-radius: 150px;
-  height: 250px;
-  width: 250px;
+  border-radius: 200px;
+  height: 400px;
+  width: 400px;
 }
 
 
@@ -1005,7 +1005,7 @@ textarea .form-control {
 }
 
 #contactFeature .feature-text {
-  color: white;
+  color: black;
 }
 
 #subscribe{
@@ -1754,7 +1754,7 @@ textarea .form-control {
   @-moz-document url-prefix() { 
   #map_canvas{height: 404px;	}
   }
-  .slider_caption {margin-top: 25%;}
+  .slider_caption {margin-top: 6%;}
   .subscribe_mail {width: 76%;}
   .subscr_btn {width: 24%;}
 
@@ -1782,7 +1782,7 @@ textarea .form-control {
   .clients_slider .slick-next {right: 45%;}
   .subscr_btn {font-size: 15px;}
   .single_contact_feaured {margin-bottom: 30px;}
-  #profile-img {height: 200px;width: 200px;}
+  #profile-img {height: 250px;width: 250px;}
 }
 
 @media(max-width:767px ){
@@ -1790,7 +1790,7 @@ textarea .form-control {
 	.main_nav{text-align: center;}
 	.navbar-default .navbar-toggle:hover, .navbar-default .navbar-toggle:focus {background-color: rgba(0,0,0,0.5);}
 	#slides {height: 360px !important;}
-	.slider_caption {margin-top: 15%;}
+	.slider_caption {margin-top: 10%;}
 	.slider_caption > h2 {font-size: 25px;line-height: 26px;}
 	.slider_caption > p {font-size: 15px;}
 	.slider_btn {font-size: 18px;}
@@ -1831,7 +1831,7 @@ textarea .form-control {
 	.single_service > .service_title:after {left: 41%;}	
   .wagwep-container ul#portfolio-filter li {width: auto;}
   .wagwep-container ul#portfolio-filter a {text-indent: 0;}
-  #profile-img {height: 150px;width: 150px;}
+  #profile-img {height: 200px;width: 200px;}
 
 }
 
@@ -1863,7 +1863,7 @@ textarea .form-control {
 }
 
 @media(max-width:360px ){
-	.slider_caption {margin-top: 28%;}
+	.slider_caption {margin-top: 25%;}
 	.slider_caption > a {margin-top: 10px;}
 	.slides-navigation h3 {display: none;}
 	.slider_caption > h2 {font-size: 18px;line-height: 20px;}
@@ -1887,7 +1887,7 @@ textarea .form-control {
   .next_nav{padding: 9px;}
   .similar_post h2 {font-size: 14px;}
   .sociallink_nav li a {margin: 0px;font-size: 15px;}
-  #profile-img {height: 100px;width: 100px;}
+  #profile-img {height: 125px;width: 125px;}
 }
 
 @media(max-width:320px ){
@@ -1895,6 +1895,6 @@ textarea .form-control {
 	.single_service > .service_title:after {left: 29%;}
 	.blog_slider .slick-prev {left: 70.5%;}
 	.subscr_btn {font-size: 11px;}
-	.slider_caption {margin-top: 34%;}  
+	.slider_caption {margin-top: 30%;}  
   #profile-img {height: 75px;width: 75px;}
 }

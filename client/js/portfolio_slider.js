@@ -16,10 +16,10 @@ $(function(){
 					'img/portfolio/dm-manager/d4s.png',
 				],
 				'large': [
-					'img/portfolio/dm-manager/d1l.png',
-					'img/portfolio/dm-manager/d2l.png',
-					'img/portfolio/dm-manager/d3l.png',
-					'img/portfolio/dm-manager/d4l.png',
+					'img/portfolio/dm-manager/d1.png',
+					'img/portfolio/dm-manager/d2.png',
+					'img/portfolio/dm-manager/d3.png',
+					'img/portfolio/dm-manager/d4.png',
 				],
 				'button_list': [
 					{ 'title':'Code', 'url':'https://github.com/ryantang333/dm-manager'}
@@ -39,10 +39,10 @@ $(function(){
 					'img/portfolio/manababy/m4s.png',
 				],
 				'large': [
-					'img/portfolio/manababy/m1l.png',
-					'img/portfolio/manababy/m2l.png',
-					'img/portfolio/manababy/m3l.png',
-					'img/portfolio/manababy/m4l.png',
+					'img/portfolio/manababy/m1.png',
+					'img/portfolio/manababy/m2.png',
+					'img/portfolio/manababy/m3.png',
+					'img/portfolio/manababy/m4.png',
 				],
 				'button_list': [
 					{ 'title':'Demo', 'url': 'http://manababyfood.com' }
@@ -56,18 +56,18 @@ $(function(){
 				'title' : 'Wishlist',
 				'description': "Create a wishlist based on products presented to you based on specific categories you define. Add friends so they can see exactly what you'd like for the next holiday that's coming up. You can then check out your friends' wishlists and successfully (and anonymously) get your friends exactly what they want.",
 				'thumbnail': [
-					'img/portfolio/wishlist/w2s.png',
 					'img/portfolio/wishlist/w1s.png',
+					'img/portfolio/wishlist/w2s.png',
 					'img/portfolio/wishlist/w3s.png',
 					'img/portfolio/wishlist/w4s.png',
 					'img/portfolio/wishlist/w5s.png',
 				],
 				'large': [
-					'img/portfolio/wishlist/w2l.png',
-					'img/portfolio/wishlist/w1l.png',
-					'img/portfolio/wishlist/w3l.png',
-					'img/portfolio/wishlist/w4l.png',
-					'img/portfolio/wishlist/w5l.png',
+					'img/portfolio/wishlist/w1.png',
+					'img/portfolio/wishlist/w2.png',
+					'img/portfolio/wishlist/w3.png',
+					'img/portfolio/wishlist/w4.png',
+					'img/portfolio/wishlist/w5.png',
 				],
 				'button_list': [
 					{ 'title':'Code', 'url': 'https://github.com/fitzonreee/wishlist'}
@@ -86,9 +86,9 @@ $(function(){
 					'img/portfolio/forum/f3s.png',
 				],
 				'large': [
-					'img/portfolio/forum/f1l.png',
-					'img/portfolio/forum/f2l.png',
-					'img/portfolio/forum/f3l.png',
+					'img/portfolio/forum/f1.png',
+					'img/portfolio/forum/f2.png',
+					'img/portfolio/forum/f3.png',
 				],
 				'button_list': [
 					{ 'title':'Demo', 'url': 'https://rt-forum.herokuapp.com' },
@@ -103,18 +103,18 @@ $(function(){
 				'title' : 'Bucket Buddy',
 				'description': "This is a simple bucket list app that allows users to add and view bucket list items, check and uncheck them, and tag a single user on an item. Users can also view all other registered users' bucket lists, but can't make modifications.",
 				'thumbnail': [
-					'img/portfolio/bucket-buddy/b2s.png',
 					'img/portfolio/bucket-buddy/b1s.png',
+					'img/portfolio/bucket-buddy/b2s.png',
 					'img/portfolio/bucket-buddy/b3s.png',
 					'img/portfolio/bucket-buddy/b4s.png',
 					'img/portfolio/bucket-buddy/b5s.png',
 				],
 				'large': [
-					'img/portfolio/bucket-buddy/b2l.png',
-					'img/portfolio/bucket-buddy/b1l.png',
-					'img/portfolio/bucket-buddy/b3l.png',
-					'img/portfolio/bucket-buddy/b4l.png',
-					'img/portfolio/bucket-buddy/b5l.png',
+					'img/portfolio/bucket-buddy/b1.png',
+					'img/portfolio/bucket-buddy/b2.png',
+					'img/portfolio/bucket-buddy/b3.png',
+					'img/portfolio/bucket-buddy/b4.png',
+					'img/portfolio/bucket-buddy/b5.png',
 				],
 				'button_list': [
 					{ 'title':'Demo', 'url': 'https://rt-bucket-buddy.herokuapp.com' },
@@ -135,10 +135,10 @@ $(function(){
 					'img/portfolio/mini-store/m4s.png',
 				],
 				'large': [
-					'img/portfolio/mini-store/m1l.png',
-					'img/portfolio/mini-store/m2l.png',
-					'img/portfolio/mini-store/m3l.png',
-					'img/portfolio/mini-store/m4l.png',
+					'img/portfolio/mini-store/m1.png',
+					'img/portfolio/mini-store/m2.png',
+					'img/portfolio/mini-store/m3.png',
+					'img/portfolio/mini-store/m4.png',
 				],
 				'button_list': [
 					{ 'title':'Demo', 'url': 'https://rt-mini-store.herokuapp.com' },
@@ -158,9 +158,9 @@ $(function(){
 					'img/portfolio/user-dashboard/u3s.png',
 				],
 				'large': [
-					'img/portfolio/user-dashboard/u1l.png',
-					'img/portfolio/user-dashboard/u2l.png',
-					'img/portfolio/user-dashboard/u3l.png',
+					'img/portfolio/user-dashboard/u1.png',
+					'img/portfolio/user-dashboard/u2.png',
+					'img/portfolio/user-dashboard/u3.png',
 				],
 				'button_list': [
 					{ 'title':'Code', 'url': 'https://github.com/ryantang333/user-dashboard'}
