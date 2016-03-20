@@ -78,28 +78,6 @@ $(function(){
 				]
 			},
 			{
-				'title' : 'Forum',
-				'description': "This is a simple forum created with the MEAN stack. Users can create topics in different categories, reply to topics, post comments on those replies, as well as upvote and downvote replies. They can also view user profiles which displays the user's activity.",
-				'thumbnail': [
-					'img/portfolio/forum/f1s.png',
-					'img/portfolio/forum/f2s.png',
-					'img/portfolio/forum/f3s.png',
-				],
-				'large': [
-					'img/portfolio/forum/f1.png',
-					'img/portfolio/forum/f2.png',
-					'img/portfolio/forum/f3.png',
-				],
-				'button_list': [
-					{ 'title':'Demo', 'url': 'https://rt-forum.herokuapp.com' },
-					{ 'title':'Code', 'url': 'https://github.com/ryantang333/forum'}
-				],
-				'tags': [
-					'MEAN',
-					'All'
-				]
-			},
-			{
 				'title' : 'Bucket Buddy',
 				'description': "This is a simple bucket list app that allows users to add and view bucket list items, check and uncheck them, and tag a single user on an item. Users can also view all other registered users' bucket lists, but can't make modifications.",
 				'thumbnail': [
@@ -119,30 +97,6 @@ $(function(){
 				'button_list': [
 					{ 'title':'Demo', 'url': 'https://rt-bucket-buddy.herokuapp.com' },
 					{ 'title':'Code', 'url': 'https://github.com/ryantang333/bucket-buddy'}
-				],
-				'tags': [
-					'MEAN',
-					'All'
-				]
-			},
-			{
-				'title' : 'Mini Store',
-				'description': "This project is a very simplistic dashboard that mimics an administrator's view of an e-commerce site, where they have full control over their customers, their products, and their customers' orders.",
-				'thumbnail': [
-					'img/portfolio/mini-store/m1s.png',
-					'img/portfolio/mini-store/m2s.png',
-					'img/portfolio/mini-store/m3s.png',
-					'img/portfolio/mini-store/m4s.png',
-				],
-				'large': [
-					'img/portfolio/mini-store/m1.png',
-					'img/portfolio/mini-store/m2.png',
-					'img/portfolio/mini-store/m3.png',
-					'img/portfolio/mini-store/m4.png',
-				],
-				'button_list': [
-					{ 'title':'Demo', 'url': 'https://rt-mini-store.herokuapp.com' },
-					{ 'title':'Code', 'url': 'https://github.com/ryantang333/mini-store'}
 				],
 				'tags': [
 					'MEAN',
